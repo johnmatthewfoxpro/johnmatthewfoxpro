@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=40e0d0&text=Hello%20there%20👋&height=130&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=40e0d0&text=Hello%20there%20🖥️&height=135&section=header"/>
 </p>
 
 ```yaml
