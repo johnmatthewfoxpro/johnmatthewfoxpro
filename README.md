@@ -3,14 +3,14 @@
 </p>
 
 ```yaml
-name: Matthew Fox
-located_in: Angouleme, France
-current_job: Technicien Electrique
+name: ["Matthew Fox"]
+located_in: ["Angouleme", "France"]
+current_job: ["Technicien Electrique"]
 education: ["NVQ Level 3 in Mechanical Engineering (Anglais)"]
-company: LN Shelter
+company: ["LN Shelter"]
   
-currently_learning: ["C, SHELL, Python"]
-2026 Goals: ["Complete Harvards CS50", "Complete School 42 Common Core"]
+currently_learning: ["C", "SHELL", "Python"]
+2026_Goals: ["Complete Harvards CS50", "Complete School 42 Common Core"]
 hobbies: ["Dungeons and Dragons", "Skiing", "Gaming"]
 ```
 
