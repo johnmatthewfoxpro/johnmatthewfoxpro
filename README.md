@@ -15,7 +15,7 @@ hobbies: ["Dungeons and Dragons", "Skiing", "Gaming"]
 ```
 
 
-![Snake animation](https://github.com/johnmatthewfoxpro/johnmatthewfoxpro/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/johnmatthewfoxpro/johnmatthewfoxpro/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!--
 <picture>
