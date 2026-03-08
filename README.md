@@ -14,6 +14,8 @@ currently_learning: ["C", "SHELL", "Python"]
 hobbies: ["Dungeons and Dragons", "Skiing", "Gaming"]
 ```
 
+![Snake animation](https://github.com/johnmatthewfoxpro/johnmatthewfoxpro/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 fields_of_interests:
   [
