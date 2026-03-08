@@ -14,7 +14,7 @@ currently_learning: ["C", "SHELL", "Python"]
 hobbies: ["Dungeons and Dragons", "Skiing", "Gaming"]
 ```
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnmatthewfoxpro)](https://github.com/johnmatthewfoxpro/github-readme-stats)
+[![johnmatthewfoxpro's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnmatthewfoxpro)](https://github.com/johnmatthewfoxpro/github-readme-stats)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
