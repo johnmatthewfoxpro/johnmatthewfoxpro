@@ -14,6 +14,8 @@ currently_learning: ["C", "SHELL", "Python"]
 hobbies: ["Dungeons and Dragons", "Skiing", "Gaming"]
 ```
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
