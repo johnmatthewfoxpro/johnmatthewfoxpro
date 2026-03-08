@@ -14,8 +14,6 @@ currently_learning: ["C", "SHELL", "Python"]
 hobbies: ["Dungeons and Dragons", "Skiing", "Gaming"]
 ```
 
-[![johnmatthewfoxpro's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnmatthewfoxpro)](https://github.com/johnmatthewfoxpro/github-readme-stats)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
@@ -25,6 +23,8 @@ hobbies: ["Dungeons and Dragons", "Skiing", "Gaming"]
 ![Snake animation](https://github.com/johnmatthewfoxpro/johnmatthewfoxpro/blob/output/github-contribution-grid-snake.svg)
 
 <!--
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=johnmatthewfoxpro&show_icons=true&theme=dark&count_private=true&hide_border=true&cache_seconds=1800&token=YOUR_TOKEN_HERE)](https://github.com/anuraghazra/github-readme-stats)
+
 fields_of_interests:
   [
     "Web Development",
